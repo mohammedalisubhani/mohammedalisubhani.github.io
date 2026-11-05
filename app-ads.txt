@@ -1,4 +1,1 @@
-# Replace the line below with the one AdMob shows you
-# (AdMob > Apps > your app > Set up app-ads.txt), then remove the leading "#".
-# One line covers ALL your apps under the same AdMob account.
-# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-6838163759079108, DIRECT, f08c47fec0942fa0
